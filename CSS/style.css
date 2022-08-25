@@ -1,0 +1,80 @@
+
+ * {
+        
+    background-image : url("../SRC/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    width: fit-content;
+
+
+     }
+
+.social {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    position: relative;
+    left:30em;
+    
+    
+}
+#menu {
+    text-decoration: none;
+}
+
+#menu li>a{
+    background-color:none;
+    color: white;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    min-width: 150px;
+    position:left;
+    
+}
+
+#menu li{
+    float: left;
+    text-align:center
+    }
+   
+.tittle {
+    width:1000px;
+    color:white;
+    text-align: left;
+    font-style: italic;  
+    font-size:xx-large;     
+    position: relative;     
+    left:7em;
+    }
+
+.resumen {
+    width:1000px;
+    color:white;
+    text-align: left;
+    font-style:normal;
+    font-family: monospace;  
+    font-size:x-large;     
+    position: relative;     
+    left:11em;    
+        }
+
+.buttons {
+    background-color: pink;
+    color:white;
+    position: relative ;
+    left:14em;
+    }
+
+#bbody {
+    position: relative;
+    bottom: 25em;
+    left:65em;
+    }
+
+.intro {
+    position: relative;
+    top:10em;
+    left:3em;
+    }
