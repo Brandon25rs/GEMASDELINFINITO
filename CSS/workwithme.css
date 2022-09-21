@@ -1,0 +1,34 @@
+#formulario  {
+    background-color: black;
+    color: white;
+}
+ body {
+    background-color: black;
+ }
+
+ #card {
+    background-color: black;
+    color: white
+ }
+
+ h1 {
+    font-family:Helvetica, Arial, sans-serif;
+    color: transparent;
+    font-size: 120px;
+    font-weight: 600;
+    letter-spacing: -0.144px;
+    text-align: center;
+    background-image: linear-gradient(
+        190deg,
+       rgb(44, 162, 180), rgb(85, 152, 222) 24%, rgb(127, 135, 255) 45%, rgb(246, 90, 173) 76%, rgb(236, 61, 67)
+    );
+    direction: ltr;
+    background-clip: text;
+    -webkit-background-clip: text;
+  -webkit-font-smoothing: antialiased;
+  will-change: transform;
+ }
+
+body {
+  background-color:black;
+}

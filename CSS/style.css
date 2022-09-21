@@ -1,7 +1,7 @@
 
- * {
+ body, head {
         
-    background-image : url("../SRC/background1.jpg");
+    background-image : url("../SRC/trees-5605176-2.jpg");
     background-size:cover;
     -webkit-background-size:cover;
     -moz-background-size:cover;
@@ -35,7 +35,8 @@
    
 .tittle {
     width:1000px;
-    color:white;
+    color: white;
+    background-color: rgba(6, 5, 5, 0.504);
     text-align: left;
     font-style: italic;  
     font-size:xx-large;     
@@ -45,7 +46,8 @@
 
 .resumen {
     width:1000px;
-    color:white;
+    color:black;
+    background-color: rgba(235, 220, 220, 0.475);
     text-align: left;
     font-style:normal;
     font-family: monospace;  
